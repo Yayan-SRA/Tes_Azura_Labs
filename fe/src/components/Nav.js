@@ -36,6 +36,9 @@ export default function Nav() {
                         <li className="nav-item">
                             <a className="nav-link active" href="/soal3">Soal 3</a>
                         </li>
+                        <li className="nav-item">
+                            <a className="nav-link active" href="/soal3v2">Soal 3 v2</a>
+                        </li>
                     </ul>
                 </div>
             </Container>
